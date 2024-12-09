@@ -1,5 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SikmaLegenseed.SikmaLegenseed" alt="visitor badge" />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Agung+Surya;Front+End+Developer" alt="Typing SVG" /></a>
 <!--
 **SikmaLegenseed/SikmaLegenseed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
