@@ -41,6 +41,9 @@
 <br>
 <hr>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=SikmaLegenseed&label=Profile%20Views&color=1&icon=5&pretty=false" />
-</a>
+<div align="center">
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=SikmaLegenseed&label=Profile%20Views&color=1&icon=5&pretty=false" />
+    </a> 
+</div>
+
