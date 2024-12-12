@@ -20,7 +20,7 @@
     </a>
 </div>
 <br>
-<h2 align="center">Tech Stacks:</h2>
+<h2 align="center">Tech Stacks : </h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 <br>
-<h2 align="center">GitHub Stats:</h2>
+<h2 align="center">GitHub Stats : </h2>
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SikmaLegenseed&theme=chartreuse-dark" alt="GitHub Streak" /></a>
 </div>
